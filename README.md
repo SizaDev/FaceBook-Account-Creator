@@ -10,4 +10,3 @@ This script utilizes the `requests` and `faker` libraries to generate random ema
   - `faker`
 ## Contact
 - TeleGram : https://t.me/SizaGod
- 
