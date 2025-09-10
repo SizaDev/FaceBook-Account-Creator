@@ -4,7 +4,7 @@ This script utilizes the `requests` and `faker` libraries to generate random ema
 ## Requirements
 - Python 3.x 
 - Required libraries:
-  - `requests`
+  - `requests` 
   - `faker`
 ## Contact
 - TeleGram : https://t.me/SizaGod
