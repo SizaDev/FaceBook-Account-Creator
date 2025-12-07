@@ -6,5 +6,5 @@ This script utilizes the `requests` and `faker` libraries to generate random ema
 - Required libraries:
   - `requests` 
   - `faker`
-## Contact
+## Contact (For Paid Version)
 - TeleGram : https://t.me/SizaGod
